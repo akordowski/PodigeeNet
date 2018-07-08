@@ -1,0 +1,9 @@
+{
+    "id": 123,
+    "episode_id": 456,
+    "title": "title",
+    "start_time": "00:01:23",
+    "url": "url",
+    "created_at": "2018-01-01T00:12:34Z",
+    "updated_at": "2018-02-02T01:23:45Z"
+}

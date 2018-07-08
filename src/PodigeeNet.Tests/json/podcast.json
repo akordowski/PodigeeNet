@@ -1,0 +1,52 @@
+{
+    "id": 123,
+    "subdomain": "subdomain",
+    "category_id": 47,
+    "title": "title",
+    "subtitle": "subtitle",
+    "description": "description",
+    "intro_outro_files": [],
+    "quality": "high",
+    "language": "en",
+    "authors": "authors",
+    "cover_image": "cover_image",
+    "website_url": "website_url",
+    "owner_email": "owner_email",
+    "published_at": "2018-03-03T12:34:56Z",
+    "created_at": "2018-01-01T00:12:34Z",
+    "updated_at": "2018-02-02T01:23:45Z",
+    "keywords": [],
+    "feeds": [
+        {
+            "format": "mp3",
+            "url": "http://subdomain.podigee.io/feed/mp3"
+        },
+        {
+            "format": "aac",
+            "url": "http://subdomain.podigee.io/feed/aac"
+        },
+        {
+            "format": "opus",
+            "url": "http://subdomain.podigee.io/feed/opus"
+        },
+        {
+            "format": "vorbis",
+            "url": "http://subdomain.podigee.io/feed/vorbis"
+        }
+    ],
+    "publication_type": "episodic",
+    "explicit": false,
+    "flattr_id": "flattr_id",
+    "twitter": "twitter",
+    "facebook": "facebook",
+    "itunes_id": "itunes_id",
+    "spotify_url": "spotify_url",
+    "deezer_url": "deezer_url",
+    "alexa_url": "alexa_url",
+    "copyright_text": "copyright_text",
+    "feed_items": 999999,
+    "transcriptions_enabled": false,
+    "transcription_language": "en-US",
+    "external_site_url": "external_site_url",
+    "domain": "domain"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "id": 123,
+    "title": "title",
+    "start_time": "12:34:56",
+    "url": "url",
+    "created_at": "2018-01-01T00:12:34Z",
+    "updated_at": "2018-02-02T12:34:56Z"
+}
